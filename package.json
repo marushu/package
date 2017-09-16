@@ -1,4 +1,5 @@
-me": "task-runner-for-wordpress-theme",
+{
+  "name": "task-runner-for-wordpress-theme",
   "version": "1.1.0",
   "description": "new task runner for hibou build themes :)",
   "scripts": {
@@ -53,4 +54,3 @@ me": "task-runner-for-wordpress-theme",
     "weinre": "^2.0.0-pre-I0Z7U9OV"
   }
 }
-
